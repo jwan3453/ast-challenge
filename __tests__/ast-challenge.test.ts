@@ -16,8 +16,8 @@ const defaultMethod = {
     }
 }
 
-// pass the following dunamicConfig as the second paramater 
-// if you want to generate dynamic hoos
+// pass the following dynamicConfig as the second paramater 
+// if you want to generate dynamic hooks
 
 // const dynamicConfig = {
 //     queryInterface: 'UseFooQuery',
